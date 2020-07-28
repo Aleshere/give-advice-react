@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Aleshere/give-advice-react/static/css/main.a59745dc.chunk.css",
-    "main.js": "/Aleshere/give-advice-react/static/js/main.1b8bbcd1.chunk.js",
-    "main.js.map": "/Aleshere/give-advice-react/static/js/main.1b8bbcd1.chunk.js.map",
-    "runtime-main.js": "/Aleshere/give-advice-react/static/js/runtime-main.0895d424.js",
-    "runtime-main.js.map": "/Aleshere/give-advice-react/static/js/runtime-main.0895d424.js.map",
-    "static/js/2.d0967d56.chunk.js": "/Aleshere/give-advice-react/static/js/2.d0967d56.chunk.js",
-    "static/js/2.d0967d56.chunk.js.map": "/Aleshere/give-advice-react/static/js/2.d0967d56.chunk.js.map",
-    "index.html": "/Aleshere/give-advice-react/index.html",
-    "precache-manifest.5cd15ad507be7856dac581221267593a.js": "/Aleshere/give-advice-react/precache-manifest.5cd15ad507be7856dac581221267593a.js",
-    "service-worker.js": "/Aleshere/give-advice-react/service-worker.js",
-    "static/css/main.a59745dc.chunk.css.map": "/Aleshere/give-advice-react/static/css/main.a59745dc.chunk.css.map",
-    "static/js/2.d0967d56.chunk.js.LICENSE.txt": "/Aleshere/give-advice-react/static/js/2.d0967d56.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/Aleshere/give-advice-react/static/media/city.91c109fc.jpg"
+    "main.css": "/give-advice-react/static/css/main.7933a7c7.chunk.css",
+    "main.js": "/give-advice-react/static/js/main.1b8bbcd1.chunk.js",
+    "main.js.map": "/give-advice-react/static/js/main.1b8bbcd1.chunk.js.map",
+    "runtime-main.js": "/give-advice-react/static/js/runtime-main.5f51daca.js",
+    "runtime-main.js.map": "/give-advice-react/static/js/runtime-main.5f51daca.js.map",
+    "static/js/2.d0967d56.chunk.js": "/give-advice-react/static/js/2.d0967d56.chunk.js",
+    "static/js/2.d0967d56.chunk.js.map": "/give-advice-react/static/js/2.d0967d56.chunk.js.map",
+    "index.html": "/give-advice-react/index.html",
+    "precache-manifest.f82356be079ee368acba72ae8e3020c0.js": "/give-advice-react/precache-manifest.f82356be079ee368acba72ae8e3020c0.js",
+    "service-worker.js": "/give-advice-react/service-worker.js",
+    "static/css/main.7933a7c7.chunk.css.map": "/give-advice-react/static/css/main.7933a7c7.chunk.css.map",
+    "static/js/2.d0967d56.chunk.js.LICENSE.txt": "/give-advice-react/static/js/2.d0967d56.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/give-advice-react/static/media/city.91c109fc.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0895d424.js",
+    "static/js/runtime-main.5f51daca.js",
     "static/js/2.d0967d56.chunk.js",
-    "static/css/main.a59745dc.chunk.css",
+    "static/css/main.7933a7c7.chunk.css",
     "static/js/main.1b8bbcd1.chunk.js"
   ]
 }
