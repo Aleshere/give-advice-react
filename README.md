@@ -1,3 +1,31 @@
+
+# Random Advice App
+*This application has an unsplash background image, a centered box containing some text, and a button.  
+When clicking the button, a call is made to adviceslip API, and the box will show some random advice to help you going throuh the day.  
+Usually they are positive advices, sometimes they are silly, but that is not the point.*  
+
+# What I have learned building this
+
+> Class App and componentDidMount state  
+> Axios API calls, .then and .catch   
+> Keyframes to give a simple shaky effect to the button text  
+
+&nbsp;
+&nbsp;
+&nbsp;
+
+## About
+
+* Just a tutorial from Traversy Media to prepare myself to build my own portfolio website
+* Project status: working
+
+&nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
+
+## And here is the usual boring stuff :)  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
